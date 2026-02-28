@@ -9,4 +9,4 @@ name = "flatmarkdown_java"
 path = "rust/lib.rs"
 
 [dependencies]
-flatmarkdown = { path = "../flatmarkdown" }
+flatmarkdown = "0.1.0"

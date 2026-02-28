@@ -1,4 +1,4 @@
-package com.petajournal.flatmarkdown;
+package com.sosuisha.flatmarkdown;
 
 import java.io.IOException;
 import java.io.InputStream;
