@@ -1,0 +1,12 @@
+[package]
+name = "flatmarkdown-java"
+version = "0.1.0"
+edition = "2021"
+
+[lib]
+crate-type = ["cdylib"]
+name = "flatmarkdown_java"
+path = "rust/lib.rs"
+
+[dependencies]
+flatmarkdown = { path = "../flatmarkdown" }
