@@ -342,9 +342,9 @@ dependencies = [
 
 [[package]]
 name = "flatmarkdown"
-version = "0.1.1"
+version = "0.2.0"
 source = "registry+https://github.com/rust-lang/crates.io-index"
-checksum = "b0e8e8758c0523655cd7b6445a740b75bbd7f7f8c646fb869122e8a6e81565a8"
+checksum = "8603abfdf1c3428b92b725989dd9160cf73e375daecd6c81425ebef31b0cf244"
 dependencies = [
  "comrak",
  "serde_json",
@@ -352,7 +352,7 @@ dependencies = [
 
 [[package]]
 name = "flatmarkdown-java"
-version = "0.1.1"
+version = "0.2.0"
 dependencies = [
  "flatmarkdown",
 ]
