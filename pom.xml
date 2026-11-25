@@ -9,7 +9,7 @@
   <packaging>jar</packaging>
   <name>Flatmarkdown Java</name>
   <description>A Java wrapper for the Flatmarkdown library using the Foreign Function &amp; Memory API</description>
-  <url>https://github.com/petajournal/flatmarkdown-java</url>
+  <url>https://github.com/sosuisen/flatmarkdown-java</url>
   <properties>
     <maven.compiler.release>25</maven.compiler.release>
     <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
@@ -90,9 +90,9 @@
   </build>
 
   <scm>
-    <connection>scm:git:git://github.com/petajournal/flatmarkdown-java.git</connection>
-    <developerConnection>scm:git:ssh://github.com/petajournal/flatmarkdown-java.git</developerConnection>
-    <url>https://github.com/petajournal/flatmarkdown-java/tree/main</url>
+    <connection>scm:git:git://github.com/sosuisen/flatmarkdown-java.git</connection>
+    <developerConnection>scm:git:ssh://github.com/sosuisen/flatmarkdown-java.git</developerConnection>
+    <url>https://github.com/sosuisen/flatmarkdown-java/tree/main</url>
   </scm>
 
   <profiles>

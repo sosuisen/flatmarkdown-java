@@ -31,7 +31,7 @@ String ast = FlatmarkdownJava.bodyToAst("# Hello");
 
 `markdownToHtml` and `markdownToAst` still work but are deprecated. Use `bodyToHtml` and `bodyToAst` instead.
 
-The AST format is described in the [flatmarkdown AST specification](https://github.com/petajournal/flatmarkdown/blob/main/SPEC_AST.md).
+The AST format is described in the [flatmarkdown AST specification](https://github.com/sosuisen/flatmarkdown/blob/main/SPEC_AST.md).
 
 ## Build
 
