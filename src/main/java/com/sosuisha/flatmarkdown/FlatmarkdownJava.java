@@ -16,17 +16,17 @@ import java.util.Objects;
 
 /**
  * Java bindings for the
- * <a href="https://github.com/petajournal/flatmarkdown">Flatmarkdown</a>
+ * <a href="https://github.com/sosuisen/flatmarkdown">Flatmarkdown</a>
  * native library via the Foreign Function &amp; Memory API.
  *
  * <p>
  * Flat Markdown is an outline format defined by the
- * <a href="https://github.com/petajournal/flatmarkdown/blob/main/SPEC.md">Flat Markdown
+ * <a href="https://github.com/sosuisen/flatmarkdown/blob/main/SPEC.md">Flat Markdown
  * specification</a>. A page is split into items by Markdown blocks. Each item
  * may carry a metadata line such as {@code <!-- @@ ID key="value" -->}.
  * </p>
  *
- * @see <a href="https://github.com/petajournal/flatmarkdown">Flatmarkdown on
+ * @see <a href="https://github.com/sosuisen/flatmarkdown">Flatmarkdown on
  *      GitHub</a>
  */
 public class FlatmarkdownJava {
@@ -96,7 +96,7 @@ public class FlatmarkdownJava {
      *
      * <p>
      * For details on the AST specification, see the
-     * <a href="https://github.com/petajournal/flatmarkdown">Flatmarkdown</a>
+     * <a href="https://github.com/sosuisen/flatmarkdown">Flatmarkdown</a>
      * documentation.
      * </p>
      *
